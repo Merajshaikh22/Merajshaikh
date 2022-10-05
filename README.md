@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Technicalbro
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning Networking 
-- 💞️ I’m looking to collaborate on some companies 
 - 📫 How to reach me via Instagram (shaikh_md_meraj)
 
 <!---
